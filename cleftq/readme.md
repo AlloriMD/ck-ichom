@@ -1,4 +1,4 @@
-#About CLEFT-Q
+# About CLEFT-Q
 
 The CLEFT-Q is a series of patient-reported outcome measures developed by McMaster University and the University of Toronto Hospital for Sick Children (SickKids). The CLEFT-Q is comprised of several scales:
 
