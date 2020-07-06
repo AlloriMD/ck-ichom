@@ -15,3 +15,5 @@ The CLEFT-Q is a series of patient-reported outcome measures developed by McMast
 
 Several of the CLEFT-Q scales have been included in the ICHOM Standard Set.
 
+CLEFT-Q is copyright © McMaster University, Hamilton, Canada [2017]. Any further use or copying of this questionnaire must be authorized by a separate licensing agreement. Please contact the McMaster University Industry Liaison Office, email: milo@mcmaster.ca for details.
+
